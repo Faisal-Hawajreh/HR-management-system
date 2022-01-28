@@ -34,6 +34,7 @@ function Salary(min,max) {
 
 
 
+
 let tableSection = document.getElementById('tableSection');
 
 let tableEl = document.createElement('table');
