@@ -1,0 +1,56 @@
+header,footer{
+    background-color: rgb(207, 189, 189);
+    height: 100px;
+}
+
+header .header-nav a {
+    text-transform: uppercase ;
+    text-decoration: none;
+    color: black;
+    margin: 15px ;
+    /* text-align: center; */
+
+}
+
+
+main{height: auto; width:100% ;}
+
+#CardSection{
+    height: 100px;
+}
+
+main .table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+}
+  
+main .table td,th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+main .table tr:nth-child(even){background-color: #f2f2f2;}
+  
+main .table tr:hover {background-color: #ddd;}
+  
+main .table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+}
+
+
+
+footer{margin-top: 150px;text-align: center;}
+footer .Links a {
+    text-decoration: none;
+    color: black;
+    margin: 30px ;    
+}
+
+footer .CopyRight {font-size: 150%;text-align: center;}
+
+footer .Social-Media {text-align: center;}

@@ -1,0 +1,61 @@
+
+
+header,footer{
+    background-color: rgb(207, 189, 189);
+    height: 100px;
+    text-align: center;
+
+}
+
+header .header-nav a {
+    text-transform: uppercase ;
+    text-decoration: none;
+    color: black;
+    margin: 30px;
+    text-align: center;
+    padding: 40px  ;
+}
+
+
+main{height: auto; width:100% ;}
+
+
+main .divEl{
+    padding : 20px 0;
+    height : auto;
+    width : 250px;
+}
+
+main .IdCard{
+    background-color : #C0D8C0;
+    height: auto;
+    width : 200px;
+    border-radius : 10%;  
+}
+
+main .imgEl{
+    width : 150px;
+    height : auto;
+    padding : 15px 25px;
+    border-radius : 50%;
+}
+
+main .infoEl{
+    padding : 5px 15px ;
+    text-align : center;
+}
+.gap{height: 30vh;}
+
+footer{margin-top: 150px;}
+
+footer .Links a {
+    text-decoration: none;
+    color: black;
+    margin: 30px ;    
+}
+
+footer .CopyRight {font-size: 150%;text-align: center;}
+
+footer .Social-Media {text-align: center;}
+
+
